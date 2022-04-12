@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_mathongo_logo.xml" value="0.11458333333333333" />
+        <entry key="app/src/main/res/layout/activity_init.xml" value="0.25" />
         <entry key="app/src/main/res/layout/layout_score_card.xml" value="0.25" />
         <entry key="app/src/main/res/menu/score_card_options.xml" value="0.1" />
       </map>
